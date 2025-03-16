@@ -1,0 +1,8 @@
+langchain
+langchain_community
+duckduckgo-search
+youtube-search-python
+langchainhub
+langchain_experimental
+langchain_google_genai
+python-dotenv
